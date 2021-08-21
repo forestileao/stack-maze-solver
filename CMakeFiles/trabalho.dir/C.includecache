@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/forestileao/CLionProjects/trabalho-ed1/main.c
+mazeSolver.h
+/home/forestileao/CLionProjects/trabalho-ed1/mazeSolver.h
+
+/home/forestileao/CLionProjects/trabalho-ed1/mazeSolver.c
+mazeSolver.h
+/home/forestileao/CLionProjects/trabalho-ed1/mazeSolver.h
+stack.h
+/home/forestileao/CLionProjects/trabalho-ed1/stack.h
+
+/home/forestileao/CLionProjects/trabalho-ed1/mazeSolver.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+stack.h
+/home/forestileao/CLionProjects/trabalho-ed1/stack.h
+
+/home/forestileao/CLionProjects/trabalho-ed1/stack.h
+

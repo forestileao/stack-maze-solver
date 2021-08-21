@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/trabalho.dir/main.c.o CMakeFiles/trabalho.dir/stack.c.o CMakeFiles/trabalho.dir/mazeSolver.c.o -o trabalho 
